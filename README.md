@@ -15,10 +15,6 @@ I'm a passionate young programmer who enjoys diving into new technologies and in
 - Passionate about simulating real-world phenomena
 - Exploring the intersection of computation and physical systems
 
-### 👁️‍🗨️ Currently Exploring :
-- 🔭 Diving deep into [Manim](https://github.com/manimCommunity/Manim)
-- 🌐 Always curious about [dynamical systems](https://en.wikipedia.org/wiki/Dynamical_systems_theory)
-
 ### Let's Connect! 🖥️
 <div align="left">
     <a href="[www.linkedin.com/in/jj-osorio]">
