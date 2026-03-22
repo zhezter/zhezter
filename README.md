@@ -1,26 +1,16 @@
-# Hey there! I'm Zhezter 👋
-I'm a passionate young programmer who enjoys diving into new technologies and interesting **projects**, especially those related to **development** and *knowledge areas* like **Physics** and **Maths**. Most of my time as a programmer, I try to find **creative solutions** to **complex problems**.
+ # Hi, I'm Zhezter
+Programmer focused on solving complex problems through rigorous computational models. My core interest lies in developing systems that represent and extend physical phenomena with precision and efficiency.
 
-### 🛠 Tech Interests & Passions:
+### Areas of Work
 - Scientific Computing
 - Physics Simulation
 - Desktop Software Development
-- Open Source Exploration
+- Dynamical Systems
+- Open Source Exploration and Contribution
 - RIIR
-- Dynamical Systems Modeling
 
-### 🎓 Academic & Personal Pursuits:
+### Background and Approach
 - Biological Engineering Student at [@UNAL](https://unal.edu.co/)
-- Chess enthusiast and strategic thinker
-- Passionate about simulating real-world phenomena
-- Exploring the intersection of computation and physical systems
-
-### Let's Connect! 🖥️
-<div align="left">
-    <a href="[www.linkedin.com/in/jj-osorio]">
-        <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
-    &nbsp;
-</div>
-
-> "Coding is the art of virtualizing *reality* and extending it to its **limits**." - Zhezter
+- Strategic thinking applied through chess
+- Design of computational models for real-world phenomena
+- Focus on the intersection of computation, mathematics, and physical systems
